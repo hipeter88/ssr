@@ -5,9 +5,7 @@ one click to install ssr/ss
 
 #
 
-wget -N --no-check-certificate https://raw.githubusercontent.com/hipeter88/ssr/master/ssr.sh && chmod +x ssr.sh && bash 
-
-ssr.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/hipeter88/ssr/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
 
 #
